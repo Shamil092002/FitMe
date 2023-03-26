@@ -1,1 +1,680 @@
-*{box-sizing:border-box;margin:0;padding:0}header{height:95px;display:flex;justify-content:space-between;align-items:center;max-width:1440px;margin-right:auto;margin-left:auto}header nav{display:flex;gap:56px}header .nav-link{color:#111112;font-size:14px;line-height:19px;text-decoration:none}header .signup{display:flex;gap:33px}header .signup button{width:96px;height:43px;background:#111112;border-radius:18px;color:#fdfbfa;font-size:14px;line-height:19px;border:none}.hero{display:flex;align-items:center;width:100%;justify-content:space-between}.hero .midsection h1{font-size:72px;line-height:74px}.content{display:flex;justify-content:space-between;margin-left:auto;margin-right:auto;max-width:1400px}.content .text h2{font-size:38px;line-height:62px;color:#111112}.content .text #because{margin-top:40px;font-size:16px;line-height:22px;color:#adaeaf}.content .text div{display:flex;align-items:center;margin-top:28px}.content .text div p{margin-left:50px;font-size:16px;line-height:22px;color:#111112}.content .content-1 .textbox-1{width:334px;height:126px;background:#f5f5f5;border-radius:24px;padding:16px}.content .content-1 .textbox-1 p{font-size:14px;line-height:19px;color:#adaeaf}.content .content-1 .textbox-2{width:334px;height:126px;background:#f5f5f5;border-radius:24px;padding:16px}.content .content-1 .textbox-2 P{font-size:14px;line-height:19px;color:#adaeaf}.content .content-2 .textbox-3{width:334px;height:126px;background:#f5f5f5;border-radius:24px;padding:16px}.content .content-2 .textbox-3 P{font-size:14px;line-height:19px;color:#adaeaf}.content .content-2 .textbox-4{width:334px;height:126px;background:#f5f5f5;border-radius:24px;padding:16px}.content .content-2 .textbox-4 p{font-size:14px;line-height:19px;color:#adaeaf}.thirdsection{padding-top:230px;max-width:1450px;margin-left:auto;margin-right:auto}.thirdsection h2{font-size:38px;line-height:62px;color:#111112}.thirdsection .diets{display:flex;justify-content:space-between;margin-top:65px}.thirdsection .diets .slim p{font-size:16px;line-height:22px;color:#111112}.thirdsection .diets .slim .calorie{display:flex;justify-content:space-between;width:242px;margin-top:14px}.thirdsection .diets .slim .calorie p{background:#f5f5f5;border-radius:8px}.thirdsection .diets .slim .text{margin-top:20px}.thirdsection .diets .slim .text p{color:#adaeaf}.thirdsection .diets .slim .cost{display:flex;align-items:baseline;margin-top:20px}.thirdsection .diets .slim .cost p{color:#adaeaf}.thirdsection .diets .slim .cost button{width:98px;height:39px;background:#1ac84b;border-radius:10px;border:none;margin-left:96px;color:#fff}.thirdsection .diets .fit p{font-size:16px;line-height:22px;color:#111112}.thirdsection .diets .fit .calorie{display:flex;justify-content:space-between;width:242px;margin-top:14px}.thirdsection .diets .fit .calorie p{background:#f5f5f5;border-radius:8px}.thirdsection .diets .fit .text{margin-top:20px}.thirdsection .diets .fit .text p{color:#adaeaf}.thirdsection .diets .fit .cost{display:flex;align-items:baseline;margin-top:42px}.thirdsection .diets .fit .cost p{color:#adaeaf}.thirdsection .diets .fit .cost button{width:98px;height:39px;background:#1ac84b;border-radius:10px;border:none;margin-left:96px;color:#fff}.thirdsection .diets .vegan p{font-size:16px;line-height:22px;color:#111112}.thirdsection .diets .vegan .calorie{display:flex;justify-content:space-between;width:242px;margin-top:14px}.thirdsection .diets .vegan .calorie p{background:#f5f5f5;border-radius:8px}.thirdsection .diets .vegan .text{margin-top:20px}.thirdsection .diets .vegan .text p{color:#adaeaf}.thirdsection .diets .vegan .cost{display:flex;align-items:baseline;margin-top:42px}.thirdsection .diets .vegan .cost p{color:#adaeaf}.thirdsection .diets .vegan .cost button{width:98px;height:39px;background:#1ac84b;border-radius:10px;border:none;margin-left:96px;color:#fff}.thirdsection .diets .keto p{font-size:16px;line-height:22px;color:#111112}.thirdsection .diets .keto .calorie{display:flex;justify-content:space-between;width:242px;margin-top:14px}.thirdsection .diets .keto .calorie p{background:#f5f5f5;border-radius:8px}.thirdsection .diets .keto .text{margin-top:20px}.thirdsection .diets .keto .text p{color:#adaeaf}.thirdsection .diets .keto .cost{display:flex;align-items:baseline;margin-top:20px}.thirdsection .diets .keto .cost p{color:#adaeaf}.thirdsection .diets .keto .cost button{width:98px;height:39px;background:#1ac84b;border-radius:10px;border:none;margin-left:96px;color:#fff}.commonsection{display:flex;margin-top:222px;max-width:1440px;margin-right:auto;margin-left:auto}.commonsection .deliversection h2{color:#111112;font-size:38px;line-height:62px}.commonsection .deliversection p{color:#111112;font-size:16px;line-height:22px}.commonsection .deliversection .coordinate{display:flex;width:588px;justify-content:space-between;margin-top:94px}.commonsection .deliversection .coordinate #city{width:345px;height:58px;border:1px solid #adaeaf;border-radius:22px;background:#fdfbfa;padding:18px;font-size:16px;line-height:22px}.commonsection .deliversection .coordinate #nip{width:223px;height:58px;border:1px solid #adaeaf;border-radius:22px;background:#fdfbfa;padding:18px}.commonsection .deliversection .locate{display:flex;margin-top:38px;width:265px;justify-content:space-between;align-items:center}.commonsection .deliversection .locate button{width:135px;height:43px;background:#ffb21a;border-radius:18px;color:#fff;border:none}.commonsection .deliversection .locate #aim{margin-left:22px}.commonsection .word{display:flex;margin-top:32px}.commonsection .name{margin-left:70px;max-height:352px;display:flex;flex-direction:column;gap:40px}.commonsection .name .title{display:flex;align-items:center;justify-content:center;width:222px;height:58px;background:#f5f5f5;border-radius:18px}.ordersection{max-width:1440px;height:381px;background:#e8edf2;border-radius:100px;margin-top:260px;margin-left:auto;margin-right:auto}.ordersection #rightyellow{position:relative;bottom:1025px}.ordersection #avacado{position:relative;bottom:509px;right:38px}.ordersection #kiwi{position:relative;left:1035px;bottom:1450px}.ordersection h2{position:relative;bottom:1752px;left:570px;font-size:38px;line-height:62px}.ordersection p{font-size:16px;line-height:22px;position:relative;bottom:1748px;left:600px}.ordersection button{color:#fff;width:138px;height:43px;background:#111112;border:none;border-radius:18px;position:relative;bottom:1700px;left:670px}.choosesection{display:flex;margin-top:226px;max-width:1440px;margin-left:auto;margin-right:auto}.choosesection h2{font-size:38px;line-height:62px}.choosesection h2 img{margin-left:10px}.choosesection #bag{margin-bottom:200px}.choosesection .bigsection{display:flex;justify-content:space-between;flex-direction:column;max-height:600px}.choosesection .bigsection .number1{display:flex;justify-content:space-between;align-items:center;width:640px}.choosesection .bigsection .number1 p{color:#adaeaf}.choosesection .bigsection .number2{display:flex;justify-content:space-between;align-items:center;width:640px}.choosesection .bigsection .number2 p{color:#adaeaf}.choosesection .bigsection .number3{display:flex;justify-content:space-between;align-items:center;width:640px}.choosesection .bigsection .number3 p{color:#adaeaf}.boxdietsection{margin-top:190px;max-width:1440px;margin-left:auto;margin-right:auto}.boxdietsection h2{font-size:38px;line-height:62px}.boxdietsection .boxdiets{margin-top:65px;display:flex;align-items:center}.boxdietsection .boxdiets .fresh{height:220px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center}.boxdietsection .boxdiets .fresh p{color:#adaeaf}.boxdietsection .boxdiets .fresh .plant{width:134px;height:128px;background:#f5f5f5;border-radius:28px;display:flex;align-items:center;justify-content:center}.boxdietsection .boxdiets .taste{height:220px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center}.boxdietsection .boxdiets .taste p{color:#adaeaf}.boxdietsection .boxdiets .taste .tasteicon{width:134px;height:128px;background:#f5f5f5;border-radius:28px;display:flex;align-items:center;justify-content:center}.boxdietsection .boxdiets .diversity{height:220px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center}.boxdietsection .boxdiets .diversity p{color:#adaeaf}.boxdietsection .boxdiets .diversity .diversityicon{width:134px;height:128px;background:#f5f5f5;border-radius:28px;display:flex;align-items:center;justify-content:center}.boxdietsection .boxdiets .match{height:220px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center}.boxdietsection .boxdiets .match p{color:#adaeaf}.boxdietsection .boxdiets .match .gymicon{width:134px;height:128px;background:#f5f5f5;border-radius:28px;display:flex;align-items:center;justify-content:center}.blogsection{margin-top:200px;max-width:1440px;margin-left:auto;margin-right:auto}.blogsection h2{font-size:38px;line-height:62px}.blogsection .product{display:flex;justify-content:space-between}.blogsection .product .blog{display:flex;flex-direction:column;gap:30px;margin-top:30px}.blogsection .product .blog p{color:#adaeaf}.blogsection .product .rightside{display:flex;flex-direction:column;gap:30px}.blogsection .product .rightside .watch2{display:flex;flex-direction:column;gap:85px}.blogsection .product .rightside .watch2 .time{display:flex;gap:228px}.blogsection .product .rightside .watch2 .time p{color:#adaeaf}.blogsection .product .rightside .watch2 .time div{display:flex;gap:10px}.blogsection .video{display:flex;gap:20px}.blogsection .video .watch{display:flex;flex-direction:column;gap:25px}.blogsection .video .watch p{color:#adaeaf}.blogsection .video .watch .time{display:flex;justify-content:space-between}.blogsection .video .watch .time div{display:flex;gap:10px}.questions{margin-top:250px;max-width:1440px;margin-left:auto;margin-right:auto}.questions .question1{display:flex;justify-content:space-between;width:1440px;margin-top:38px;margin-bottom:25px}.questions .question1 h3{font-size:28px;line-height:38px}.questions .question2{display:flex;justify-content:space-between;width:1440px;margin-top:38px;margin-bottom:25px}.questions .question2 h3{font-size:28px;line-height:38px}.questions .question3{display:flex;justify-content:space-between;width:1440px;margin-top:38px;margin-bottom:25px}.questions .question3 h3{font-size:28px;line-height:38px}.questions .question4{display:flex;justify-content:space-between;width:1440px;margin-top:38px;margin-bottom:25px}.questions .question4 h3{font-size:28px;line-height:38px}.questions .question5{display:flex;justify-content:space-between;width:1440px;margin-top:38px;margin-bottom:25px}.questions .question5 h3{font-size:28px;line-height:38px}.footer{width:1920px;height:313px;background:#f5f5f5;margin-top:250px}.footer footer{height:95px;display:flex;justify-content:space-between;align-items:center;max-width:1440px;margin-right:auto;margin-left:auto}.footer footer .contact{display:flex;gap:14px}.footer footer .contact p{color:#adaeaf}.footer footer nav{display:flex;gap:56px}.footer footer .nav-link{color:#111112;font-size:14px;line-height:19px;text-decoration:none}.footer .socialmedia{display:flex;justify-content:center;gap:24px}.footer .privacy{display:flex;justify-content:center;padding-top:80px;gap:31px}.footer .privacy p{color:#adaeaf}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+}
+header nav {
+  display: flex;
+  gap: 56px;
+}
+header .nav-link {
+  color: #111112;
+  font-size: 14px;
+  line-height: 19px;
+  text-decoration: none;
+}
+header .signup {
+  display: flex;
+  gap: 33px;
+}
+header .signup button {
+  width: 96px;
+  height: 43px;
+  background: #111112;
+  border-radius: 18px;
+  color: #FDFBFA;
+  font-size: 14px;
+  line-height: 19px;
+  border: none;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+.hero .midsection h1 {
+  font-size: 72px;
+  line-height: 74px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1400px;
+}
+.content .text h2 {
+  font-size: 38px;
+  line-height: 62px;
+  color: #111112;
+}
+.content .text #because {
+  margin-top: 40px;
+  font-size: 16px;
+  line-height: 22px;
+  color: #ADAEAF;
+}
+.content .text div {
+  display: flex;
+  align-items: center;
+  margin-top: 28px;
+  gap: 50px;
+}
+.content .text div p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #111112;
+}
+.content .content-1 .textbox {
+  width: 334px;
+  height: 126px;
+  background: #F5F5F5;
+  border-radius: 24px;
+  padding: 16px;
+}
+.content .content-1 .textbox p {
+  font-size: 14px;
+  line-height: 19px;
+  color: #ADAEAF;
+}
+.content .content-2 .textbox-3 {
+  width: 334px;
+  height: 126px;
+  background: #F5F5F5;
+  border-radius: 24px;
+  padding: 16px;
+}
+.content .content-2 .textbox-3 P {
+  font-size: 14px;
+  line-height: 19px;
+  color: #ADAEAF;
+}
+.content .content-2 .textbox-4 {
+  width: 334px;
+  height: 126px;
+  background: #F5F5F5;
+  border-radius: 24px;
+  padding: 16px;
+}
+.content .content-2 .textbox-4 p {
+  font-size: 14px;
+  line-height: 19px;
+  color: #ADAEAF;
+}
+
+.thirdsection {
+  padding-top: 230px;
+  max-width: 1450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.thirdsection h2 {
+  font-size: 38px;
+  line-height: 62px;
+  color: #111112;
+}
+.thirdsection .diets {
+  display: flex;
+  gap: 20px;
+  margin-top: 65px;
+}
+.thirdsection .diets .slim p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #111112;
+}
+.thirdsection .diets .slim .calorie {
+  display: flex;
+  justify-content: space-between;
+  width: 242px;
+  margin-top: 14px;
+}
+.thirdsection .diets .slim .calorie p {
+  background: #F5F5F5;
+  border-radius: 8px;
+}
+.thirdsection .diets .slim .text {
+  margin-top: 20px;
+}
+.thirdsection .diets .slim .text p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .slim .cost {
+  display: flex;
+  align-items: baseline;
+  margin-top: 20px;
+}
+.thirdsection .diets .slim .cost p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .slim .cost button {
+  width: 98px;
+  height: 39px;
+  background: #1AC84B;
+  border-radius: 10px;
+  border: none;
+  margin-left: 68px;
+  color: white;
+}
+.thirdsection .diets .fit p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #111112;
+}
+.thirdsection .diets .fit .calorie {
+  display: flex;
+  justify-content: space-between;
+  width: 242px;
+  margin-top: 14px;
+}
+.thirdsection .diets .fit .calorie p {
+  background: #F5F5F5;
+  border-radius: 8px;
+}
+.thirdsection .diets .fit .text {
+  margin-top: 20px;
+}
+.thirdsection .diets .fit .text p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .fit .cost {
+  display: flex;
+  align-items: baseline;
+  margin-top: 42px;
+}
+.thirdsection .diets .fit .cost p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .fit .cost button {
+  width: 98px;
+  height: 39px;
+  background: #1AC84B;
+  border-radius: 10px;
+  border: none;
+  margin-left: 68px;
+  color: white;
+}
+.thirdsection .diets .vegan p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #111112;
+}
+.thirdsection .diets .vegan .calorie {
+  display: flex;
+  justify-content: space-between;
+  width: 242px;
+  margin-top: 14px;
+}
+.thirdsection .diets .vegan .calorie p {
+  background: #F5F5F5;
+  border-radius: 8px;
+}
+.thirdsection .diets .vegan .text {
+  margin-top: 20px;
+}
+.thirdsection .diets .vegan .text p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .vegan .cost {
+  display: flex;
+  align-items: baseline;
+  margin-top: 42px;
+}
+.thirdsection .diets .vegan .cost p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .vegan .cost button {
+  width: 98px;
+  height: 39px;
+  background: #1AC84B;
+  border-radius: 10px;
+  border: none;
+  margin-left: 68px;
+  color: white;
+}
+.thirdsection .diets .keto p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #111112;
+}
+.thirdsection .diets .keto .calorie {
+  display: flex;
+  justify-content: space-between;
+  width: 242px;
+  margin-top: 14px;
+}
+.thirdsection .diets .keto .calorie p {
+  background: #F5F5F5;
+  border-radius: 8px;
+}
+.thirdsection .diets .keto .text {
+  margin-top: 20px;
+}
+.thirdsection .diets .keto .text p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .keto .cost {
+  display: flex;
+  align-items: baseline;
+  margin-top: 20px;
+}
+.thirdsection .diets .keto .cost p {
+  color: #ADAEAF;
+}
+.thirdsection .diets .keto .cost button {
+  width: 98px;
+  height: 39px;
+  background: #1AC84B;
+  border-radius: 10px;
+  border: none;
+  margin-left: 68px;
+  color: white;
+}
+
+.commonsection {
+  display: flex;
+  margin-top: 222px;
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.commonsection .deliversection h2 {
+  color: #111112;
+  font-size: 38px;
+  line-height: 62px;
+}
+.commonsection .deliversection p {
+  color: #111112;
+  font-size: 16px;
+  line-height: 22px;
+}
+.commonsection .deliversection .coordinate {
+  display: flex;
+  width: 588px;
+  justify-content: space-between;
+  margin-top: 94px;
+}
+.commonsection .deliversection .coordinate #city {
+  width: 345px;
+  height: 58px;
+  border: 1px solid #ADAEAF;
+  border-radius: 22px;
+  background: #FDFBFA;
+  padding: 18px;
+  font-size: 16px;
+  line-height: 22px;
+}
+.commonsection .deliversection .coordinate #nip {
+  width: 223px;
+  height: 58px;
+  border: 1px solid #ADAEAF;
+  border-radius: 22px;
+  background: #FDFBFA;
+  padding: 18px;
+}
+.commonsection .deliversection .locate {
+  display: flex;
+  margin-top: 38px;
+  width: 265px;
+  justify-content: space-between;
+  align-items: center;
+}
+.commonsection .deliversection .locate button {
+  width: 135px;
+  height: 43px;
+  background: #FFB21A;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+.commonsection .deliversection .locate #aim {
+  margin-left: 22px;
+}
+.commonsection .word {
+  display: flex;
+  margin-top: 32px;
+}
+.commonsection .name {
+  margin-left: 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.commonsection .name .title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 222px;
+  height: 58px;
+  background: #F5F5F5;
+  border-radius: 18px;
+}
+
+.ordersection {
+  max-width: 1440px;
+  height: 381px;
+  background: #e8edf2;
+  border-radius: 100px;
+  margin-top: 260px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+.ordersection #rightyellow {
+  position: relative;
+  bottom: 1025px;
+}
+.ordersection #avacado {
+  position: relative;
+  bottom: 509px;
+  right: 38px;
+}
+.ordersection #kiwi {
+  position: relative;
+  left: 1035px;
+  bottom: 1450px;
+}
+.ordersection h2 {
+  position: absolute;
+  bottom: 220px;
+  left: 566px;
+  font-size: 38px;
+  line-height: 62px;
+}
+.ordersection p {
+  font-size: 16px;
+  line-height: 22px;
+  position: absolute;
+  bottom: 180px;
+  left: 590px;
+}
+.ordersection button {
+  color: white;
+  width: 138px;
+  height: 43px;
+  background: #111112;
+  border: none;
+  border-radius: 18px;
+  position: absolute;
+  bottom: 90px;
+  right: 44%;
+}
+
+.choosesection {
+  display: flex;
+  margin-top: 226px;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.choosesection h2 {
+  font-size: 38px;
+  line-height: 62px;
+}
+.choosesection h2 img {
+  margin-left: 10px;
+}
+.choosesection #bag {
+  margin-bottom: 200px;
+}
+.choosesection .bigsection {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  max-height: 600px;
+}
+.choosesection .bigsection .number {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 640px;
+  gap: 20px;
+}
+.choosesection .bigsection .number p {
+  color: #ADAEAF;
+}
+
+.boxdietsection {
+  margin-top: 190px;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.boxdietsection h2 {
+  font-size: 38px;
+  line-height: 62px;
+}
+.boxdietsection .boxdiets {
+  margin-top: 65px;
+  display: flex;
+  align-items: center;
+}
+.boxdietsection .boxdiets .fresh {
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.boxdietsection .boxdiets .fresh p {
+  color: #ADAEAF;
+}
+.boxdietsection .boxdiets .fresh .plant {
+  width: 134px;
+  height: 128px;
+  background: #F5F5F5;
+  border-radius: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boxdietsection .boxdiets .taste {
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.boxdietsection .boxdiets .taste p {
+  color: #ADAEAF;
+}
+.boxdietsection .boxdiets .taste .tasteicon {
+  width: 134px;
+  height: 128px;
+  background: #F5F5F5;
+  border-radius: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boxdietsection .boxdiets .diversity {
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.boxdietsection .boxdiets .diversity p {
+  color: #ADAEAF;
+}
+.boxdietsection .boxdiets .diversity .diversityicon {
+  width: 134px;
+  height: 128px;
+  background: #F5F5F5;
+  border-radius: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boxdietsection .boxdiets .match {
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.boxdietsection .boxdiets .match p {
+  color: #ADAEAF;
+}
+.boxdietsection .boxdiets .match .gymicon {
+  width: 134px;
+  height: 128px;
+  background: #F5F5F5;
+  border-radius: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blogsection {
+  margin-top: 200px;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.blogsection h2 {
+  font-size: 38px;
+  line-height: 62px;
+}
+.blogsection .product {
+  display: flex;
+  gap: 18px;
+}
+.blogsection .product .blog {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 30px;
+}
+.blogsection .product .blog p {
+  color: #ADAEAF;
+}
+.blogsection .product .rightside {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 25px;
+}
+.blogsection .product .rightside .watch2 {
+  display: flex;
+  flex-direction: column;
+  gap: 85px;
+}
+.blogsection .product .rightside .watch2 .time {
+  display: flex;
+  gap: 228px;
+}
+.blogsection .product .rightside .watch2 .time p {
+  color: #ADAEAF;
+}
+.blogsection .product .rightside .watch2 .time div {
+  display: flex;
+  gap: 10px;
+}
+.blogsection .video {
+  display: flex;
+  gap: 20px;
+}
+.blogsection .video .watch {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.blogsection .video .watch p {
+  color: #ADAEAF;
+}
+.blogsection .video .watch .time {
+  display: flex;
+  justify-content: space-between;
+}
+.blogsection .video .watch .time div {
+  display: flex;
+  gap: 10px;
+}
+
+.questions {
+  margin-top: 250px;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.questions .question {
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  margin-top: 38px;
+  margin-bottom: 25px;
+}
+.questions .question h3 {
+  font-size: 28px;
+  line-height: 38px;
+}
+
+.footer {
+  height: 313px;
+  background: #F5F5F5;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer footer {
+  height: 95px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.footer footer .contact {
+  display: flex;
+  gap: 14px;
+}
+.footer footer .contact p {
+  color: #ADAEAF;
+}
+.footer footer nav {
+  display: flex;
+  gap: 56px;
+}
+.footer footer .nav-link {
+  color: #111112;
+  font-size: 14px;
+  line-height: 19px;
+  text-decoration: none;
+}
+.footer .socialmedia {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+.footer .privacy {
+  display: flex;
+  justify-content: center;
+  padding-top: 80px;
+  gap: 31px;
+}
+.footer .privacy p {
+  color: #ADAEAF;
+}/*# sourceMappingURL=landing.css.map */
