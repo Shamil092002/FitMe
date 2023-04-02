@@ -41,6 +41,7 @@ header .signup button {
   font-size: 14px;
   line-height: 19px;
   border: none;
+  cursor: pointer;
 }
 
 .menu {

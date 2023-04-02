@@ -3,31 +3,43 @@
     margin: 0;
     padding: 0;
 }
-h1,h2,h3,h4 {
+
+h1,
+h2,
+h3,
+h4 {
     font-family: 'Open Sans', sans-serif;
 }
 
+.open {
+    display: flex !important;
+}
 
 header {
     padding-top: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
-    max-width: 1440px;
-    margin-right: auto;
-    margin-left: auto;
 
-    nav {
+    .nav {
         display: flex;
         gap: 56px;
+
+        .nav-link {
+            color: #111112;
+            font-size: 14px;
+            line-height: 19px;
+            text-decoration: none;
+        }
+
+        & ul {
+            display: flex;
+            list-style: none;
+            justify-content: space-between;
+            gap: 56px;
+        }
     }
 
-    .nav-link {
-        color: #111112;
-        font-size: 14px;
-        line-height: 19px;
-        text-decoration: none;
-    }
 
     .signup {
         display: flex;
@@ -42,9 +54,61 @@ header {
             font-size: 14px;
             line-height: 19px;
             border: none;
+            cursor: pointer;
         }
     }
+
 }
+
+.burger {
+    display: flex;
+    position: relative;
+    z-index: 50;
+    align-items: center;
+    justify-content: flex-end;
+    width: 30px;
+    height: 18px;
+
+    & span {
+        height: 2px;
+        width: 80%;
+        transform: scale(1);
+        background-color: rgb(65, 64, 64);
+    }
+}
+
+.burger::before,
+.burger::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    background-color: rgb(65, 64, 64);
+    transition: all 0.3s ease 0s;
+}
+
+.burger::before {
+    top: 0
+}
+
+.burger::after {
+    bottom: 0
+}
+
+.burger.active span {
+    transform: scale(0)
+}
+
+.burger.active::before {
+    top: 50%;
+    transform: rotate(-45deg) translate(0, -50%);
+}
+
+.burger.active::after {
+    top: 50%;
+    transform: rotate(45deg) translate(0, 50%);
+}
+
 
 .hero {
     display: flex;
@@ -677,13 +741,11 @@ header {
         gap: 18px;
 
         .blog {
-            display: flex;
-            flex-direction: column;
-            gap: 30px;
             margin-top: 30px;
 
             & p {
                 color: #ADAEAF;
+                margin-top: 30px;
             }
         }
 
@@ -818,4 +880,109 @@ header {
             color: #ADAEAF;
         }
     }
+}
+
+@media screen and (max-width: 900px) {
+    .content {
+        align-items: center;
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .thirdsection {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .diets {
+            flex-direction: column;
+        }
+    }
+
+    .commonsection {
+        flex-direction: column;
+
+        .coordinate {
+            flex-direction: column;
+            gap: 20px;
+
+        }
+
+        .word {
+            flex-wrap: wrap;
+
+            .name {
+                margin-left: 10px;
+
+                .title {
+                    width: 100px;
+                }
+            }
+        }
+    }
+
+    .ordersection {
+        display: none;
+    }
+
+    .choosesection {
+        flex-direction: column;
+        .bigsection {
+            gap: 20px;
+        .number {
+            flex-wrap: wrap;
+            #aifon {
+                margin-right: 370px;
+            }
+            #chef-hat {
+                margin-right: 362px;
+            }
+            #deliver {
+                margin-right: 362px;
+            }
+        }
+    }
+    }
+    .boxdiets {
+        flex-wrap: wrap;
+        gap: 20px;
+        #line {
+            display: none;
+        }
+    }
+    .blogsection {
+        .blog {
+            display: none;
+        }
+        .rightside {
+            .video {
+                flex-direction: column;
+                gap: 10px;
+            }
+            .watch {
+                gap: 10px;
+            }
+            
+        }
+    }
+    .questions {
+        margin-top: 100px;
+        
+        .question {
+            margin-top: 0;
+            & h3 {
+                font-size: 17px;
+            }
+        }
+        #long-line {
+            display: none;
+        }
+        #arrow {
+            display: none;
+        }
+    }
+    .footer {
+        display: none;
+    }
+
 }
